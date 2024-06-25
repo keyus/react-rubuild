@@ -1,0 +1,5 @@
+**/*.md
+**/*.svg
+.eslintrc
+.babelrc
+package.json
